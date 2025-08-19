@@ -60,3 +60,8 @@ transition: color .15s ease-in-out,background-color .15s ease-in-out,border-colo
 .buttons:hover {
     background-color: #3e3e54;
 }
+.Vocab{
+    background-color: #292942;
+    padding: 50px;
+    border-radius: 5px;
+}
