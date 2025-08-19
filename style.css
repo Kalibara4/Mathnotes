@@ -1,0 +1,62 @@
+html{
+    background-color: #1e1e2f;
+    text-decoration: none;
+}
+.header{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding: 1px;
+    background-color: #292942;
+    border-radius: 10px;
+}
+body{
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 20px;
+    background-color: #1e1e2f;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.buttons {
+  font-size: 2em;
+  padding: 10px;
+  background-color: #292942;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  max-width: 100%;
+  width: 450px;
+  text-align: center;
+  display: block;
+  margin:auto;
+  margin-top: 15px;
+transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .5s ease-in-out;
+}
+.buttons-top {
+  font-size: 2em;
+  padding: 10px;
+  background-color: #292942;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  max-width: 100%;
+  width: 450px;
+  text-align: center;
+  display: block;
+  margin:auto;
+  margin-top: 15%;
+transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .5s ease-in-out;
+}
+.buttons-top:hover {
+    background-color: #3e3e54;
+}
+.buttons:hover {
+    background-color: #3e3e54;
+}
